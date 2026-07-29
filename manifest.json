@@ -5,7 +5,7 @@
 	"description": "Instantly redirect LeetCode problem numbers (leetcode.com/p/<id>, /problem/<id>, /problems/<id>) to official problem slug pages.",
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "leetjump@arshsaxena",
+			"id": "leetjump@leetjump",
 			"strict_min_version": "140.0",
 			"data_collection_permissions": {
 				"required": ["none"]
